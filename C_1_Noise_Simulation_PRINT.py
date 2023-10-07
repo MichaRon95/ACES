@@ -4,7 +4,7 @@
 
 # ___0.0 Import packages
 
-from C_ACES.C_0_2_Better_Iterators_PRINT import *
+from C_0_2_Better_Iterators_PRINT import *
 
 # ___________________________________________________________________________________________
 # 1. Random Pauli configurations in space or time
